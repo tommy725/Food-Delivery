@@ -1,28 +1,5 @@
 
-<p align="center">
-    <img src="https://d33wubrfki0l68.cloudfront.net/1c77d8aef9368acac476faeb3f03948a2aa461ea/f3214/images/app/fooddelivery-demo-app.png" width="50%" alt="DSKit"/>
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Swift-5.5-brightgreen.svg" />
-    <a href="https://swift.org/package-manager">
-        <img src="https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=flat" alt="Swift Package Manager" />
-    </a>
-    <img src="https://img.shields.io/badge/iOS-13+-brightgreen.svg?style=flat" alt="iOS"/>
-    <img src="https://circleci.com/gh/imodeveloperlab/dskit/tree/main.svg?style=shield" alt="iOS"/>
-</p>
-
-<p align="center">
-This project is powered by <a href="https://github.com/imodeveloperlab/dskit"> DSKit </a> a Design System Kit for iOS 13+, an iOS SDK written in Swift with a collection of reusable components, guided by clear standards, that can be assembled to build any number of applications.
-</p>
-
-<p align="center">
-Over 30 UI/UX Interfaces for Food Delivery App design template powered by <a href="https://github.com/imodeveloperlab/dskit"> DSKit </a>
-</p>
-
-<p align="center">
-  https://dskit.app/demo-food-delivery
-</p>
+#Food-Delivery
 
 
 <table>
